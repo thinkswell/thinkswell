@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 🏎Express,🧩NodeJs,🐀Mongoose,🍃MongoDB. 
 - 💬 Ask me about anything 👨‍💻
 - 📫 Mail me at [krishna23712@gmail.com](mailto:krishna23712@gmail.com)
-- ⚡ Fun fact about me: Jhon Wick of Web Development (Man of Focus, Determination, and Sheer Will) 😉
+- ⚡ Fun fact about me: John Wick of Web Development (Man of Focus, Determination, and Sheer Will) 😉
 
 
 <h3 align="left">Languages and Tools:</h3>

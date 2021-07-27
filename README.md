@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-- 🌱 I’m currently learning Express, NodeJs, Mongoose, MongoDB
-- 💬 Ask me about anything that make sense 😉
-- 📫 How to reach me [Mailme :)](mailto:krishna23712@gmail.com)
+- 🌱 I’m currently learning 🏎Express,🧩NodeJs,🐀Mongoose,🍃MongoDB. 
+- 💬 Ask me about anything 👨‍💻
+- 📫 Mail me at [krishna23712@gmail.com](mailto:krishna23712@gmail.com)
+- ⚡ Fun fact about me: Jhon Wick of Web Development (Man of Focus, Determination, and Sheer Will) 😉
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 

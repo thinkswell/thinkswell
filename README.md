@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🌱 I’m currently learning 🏎Express,🧩NodeJs,🐀Mongoose,🍃MongoDB. 
+- 🌱 I’m currently learning 🅰️Angular. 
 - 💬 Ask me about anything 👨‍💻
 - 📫 Mail me at [krishna23712@gmail.com](mailto:krishna23712@gmail.com)
 - ⚡ Fun fact about me: John Wick of Web Development (Man of Focus, Determination, and Sheer Will) 😉
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
